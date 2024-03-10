@@ -254,6 +254,8 @@
 			dependencies = (
 			);
 			name = Sift;
+			packageProductDependencies = (
+			);
 			productName = Sift;
 			productReference = 7168EE011C7B977500A88245 /* Sift.framework */;
 			productType = "com.apple.product-type.framework";
@@ -303,6 +305,8 @@
 				Base,
 			);
 			mainGroup = 7168EDF71C7B977500A88245;
+			packageReferences = (
+			);
 			productRefGroup = 7168EE021C7B977500A88245 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
